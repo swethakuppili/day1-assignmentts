@@ -1,0 +1,26 @@
+﻿package news1;
+import java.lang.*;
+import java.util.Scanner;
+public class NEWS3 {
+	//int rollno;
+	///String name;
+	//float marks;
+	public  static void main(String args[])
+	{
+		int rollno;
+		String name;
+		float marks;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter roll number");
+		rollno=sc.nextInt();
+		sc.nextLine();
+		System.out.println("Enter name");
+		name=sc.nextLine();
+		//sc.nextLine();
+		System.out.println("enter marks");
+		marks=sc.nextFloat();
+		System.out.println("STUDENT" + rollno +name +marks);
+		
+		}
+
+}
