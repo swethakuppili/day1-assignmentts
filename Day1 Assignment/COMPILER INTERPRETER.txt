@@ -1,0 +1,6 @@
+﻿compiler___________                          interpreter____________
+1.it takes entire program                   1.it takes line by line 
+2. it takes more space                      2.it takes less space
+3.it is high level language                 3.it is high level language
+4.it is very fast                           4.it is a slow
+5.Examples are c,c++.                       5.Examples are python,perl.
